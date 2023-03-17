@@ -1,0 +1,94 @@
+@media screen and (min-width: 767px) and (max-width: 991px) {
+    .container {
+        padding: 0px 70px;
+        max-width: 980px;
+    }
+    .AccountBox h3 {
+        font-size: 31px;
+        padding: 0;
+    }
+    .AccountBox .TabBox ul li {
+        width: 46%;
+        margin-bottom: 20px;
+    }
+   
+  
+
+}   
+@media screen and (max-width:766px){
+
+  .AccountBox .TabBox ul li {
+    font-size: 21px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-right: 0;
+}
+    .ConditionsArea .card .card-body p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .ConditionsArea .card .card-header h4 {
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:992px) {
+    .ContactBox {
+        width: 100%;
+    }
+    .TopHeading {
+        padding: 70px 10px;
+    }
+    .StatementBox .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .MainFooter .Foot {
+        margin-top: 10px;
+    }
+    .AccountBox .StepBox span.Line {
+        display: none;
+    }
+    .QRcodeBox {
+        right: 0;
+        top: 8px;
+        left: 0;
+    }
+   
+    .AccountBox h3 {
+        font-size: 28px;
+        padding: 0;
+    }
+    .MainHeading {
+        margin-top: 140px;
+        margin-bottom: 20px;
+    }
+    .Header .Navigation .navbar .navbar-nav .nav-item {
+        display: block;
+        width: 100%;
+    }
+    .StepBox .col-sm-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .MainFooter .col-sm-5 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .MainFooter .col-sm-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .MainFooter .col-sm-2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .HomeContent .col-sm-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .AccountBox .StepBox .FigureBox figure {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
